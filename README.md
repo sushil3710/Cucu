@@ -14,6 +14,7 @@ To compile and run the lexical analyzer, follow these steps:
 **Execute the lexical analyzer with an input file:**
 
 ./lexer input_code.txt
+
 The output will be generated in the lex_output.txt file.
 
 **Generate the parser code using the provided Bison file:**
